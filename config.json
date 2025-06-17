@@ -1,8 +1,8 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://www.aemshop.net/graphql",
-      "commerce-endpoint": "https://www.aemshop.net/cs-graphql",
+      "commerce-core-endpoint": "https://us.elsevierhealth.com/graphql",
+      "commerce-endpoint": "https://us.elsevierhealth.com/graphql",
       "headers": {
         "all": {
           "Store": "default"
